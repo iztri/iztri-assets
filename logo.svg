@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#14b8a6"/><stop offset="1" stop-color="#2563eb"/></linearGradient></defs><rect width="512" height="512" rx="112" fill="url(#g)"/>
+<path d="M124 150H388a28 28 0 0 1 28 28V230a26 26 0 0 0 0 52V334a28 28 0 0 1-28 28H124a28 28 0 0 1-28-28V282a26 26 0 0 0 0-52V178a28 28 0 0 1 28-28Z" fill="#fff"/>
+<polyline points="146,314 214,254 268,290 356,206" fill="none" stroke="#0f8f9a" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="356" cy="206" r="17" fill="#2563eb"/>
+</svg>
